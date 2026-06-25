@@ -1,10 +1,10 @@
-# 🚀 Taskora – Meeting-to-Execution AI Agent
+# Taskora – Meeting-to-Execution AI Agent
 
 > Transform meeting conversations into actionable tasks, assign ownership, prioritize work, and track execution automatically.
 
 ![Taskora Banner](assets/banner.png)
 
-## 🎯 Problem Statement
+## Problem Statement - 
 
 Teams spend hours in meetings, but action items often get lost in notes, chats, and memory.
 
@@ -20,29 +20,29 @@ Taskora bridges the gap between **discussion and execution** by converting meeti
 
 ---
 
-## 💡 Solution
+## Solution - 
 
 Taskora is an AI-powered Meeting-to-Execution Agent that automatically:
 
-✅ Processes meeting transcripts
+- Processes meeting transcripts
 
-✅ Extracts action items
+- Extracts action items
 
-✅ Identifies task owners
+- Identifies task owners
 
-✅ Assigns priorities
+- Assigns priorities
 
-✅ Detects deadlines
+- Detects deadlines
 
-✅ Removes duplicate tasks
+- Removes duplicate tasks
 
-✅ Generates an execution-ready task dashboard
+- Generates an execution-ready task dashboard
 
 Instead of manually reviewing meeting notes, teams instantly receive a structured action plan.
 
 ---
 
-## 🏗️ Architecture
+## Architecture - 
 
 ```text
 Meeting Transcript
@@ -86,9 +86,9 @@ Execution Dashboard
 
 ---
 
-## 🤖 AI Agents
+## AI Agents - 
 
-### 1️⃣ Transcription Agent
+### 1 Transcription Agent -
 
 Responsible for:
 
@@ -98,7 +98,7 @@ Responsible for:
 
 ---
 
-### 2️⃣ Action Extraction Agent
+### 2️ Action Extraction Agent - 
 
 Uses Gemini to identify:
 
@@ -125,7 +125,7 @@ Rahul will prepare deployment documentation by Friday.
 
 ---
 
-### 3️⃣ Owner Assignment Agent
+### 3️ Owner Assignment Agent - 
 
 Determines:
 
@@ -142,7 +142,7 @@ Example:
 
 ---
 
-### 4️⃣ Priority Detection Agent
+### 4️ Priority Detection Agent -
 
 Classifies tasks into:
 
@@ -154,7 +154,7 @@ Based on urgency indicators and task context.
 
 ---
 
-### 5️⃣ Deadline Detection Agent
+### 5️ Deadline Detection Agent - 
 
 Extracts timeline information:
 
@@ -169,13 +169,13 @@ and converts them into structured deadlines.
 
 ---
 
-### 6️⃣ Duplicate Detection Agent
+### 6️ Duplicate Detection Agent - 
 
 Prevents repeated work by identifying similar action items before task creation.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack - 
 
 | Category | Technology |
 |-----------|------------|
@@ -189,7 +189,7 @@ Prevents repeated work by identifying similar action items before task creation.
 
 ---
 
-## 🔄 Workflow
+## Workflow -
 
 ```text
 Meeting Ends
@@ -218,7 +218,7 @@ Execution Dashboard Generated
 
 ---
 
-## 📊 Example Output
+## 📊 Example Output - 
 
 ```json
 [
@@ -241,7 +241,7 @@ Execution Dashboard Generated
 
 ---
 
-## 🌟 Key Features
+## Key Features - 
 
 ### Automated Action Item Extraction
 
@@ -269,7 +269,7 @@ Converts conversations into measurable outcomes.
 
 ---
 
-## 🎥 Demo Scenario
+## Demo Scenario - 
 
 ### Meeting Discussion
 
@@ -281,7 +281,7 @@ Sarah will prepare release notes.
 The deployment checklist must be finalized before launch.
 ```
 
-### Taskora Output
+### Taskora Output - 
 
 | Task | Owner | Priority | Deadline |
 |--------|--------|--------|--------|
@@ -291,7 +291,7 @@ The deployment checklist must be finalized before launch.
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements - 
 
 - Jira Integration
 - Notion Integration
@@ -305,7 +305,7 @@ The deployment checklist must be finalized before launch.
 
 ---
 
-## 🏆 Hackathon Impact
+## Hackathon Impact - 
 
 ### Time Saved
 
@@ -324,10 +324,6 @@ Move directly from discussion to execution.
 Ensure no action item gets lost after meetings.
 
 ---
-
-## 👥 Team
-
-Built with ❤️ for hackathons and productivity-driven teams.
 
 **Taskora**
 *From Meeting Notes to Execution.*
